@@ -40,6 +40,6 @@ This circuit is a simple series circuit.
 
 A photo of the completed circuit on the breadboard.
 
-*(**Note:** You will need to replace `photo.jpg` with the actual path to your image file.)*
+*(**Note:** You will need to replace `photo.jpeg` with the actual path to your image file.)*
 
-![Photo of the working circuit](./photo.jpg)
+![Photo of the working circuit](./photo.jpeg)
