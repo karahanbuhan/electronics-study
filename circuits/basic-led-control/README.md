@@ -18,8 +18,6 @@ This is a fundamental electronics circuit that demonstrates how to turn a Light 
 
 Here is the circuit diagram for this setup.
 
-*(**Note:** You will need to replace `schematic.png` with the actual path to your image file.)*
-
 ![Schematic for LED control](./schematic.png)
 
 ---
@@ -39,7 +37,5 @@ This circuit is a simple series circuit.
 ## Breadboard Setup
 
 A photo of the completed circuit on the breadboard.
-
-*(**Note:** You will need to replace `photo.jpeg` with the actual path to your image file.)*
 
 ![Photo of the working circuit](./photo.jpeg)
