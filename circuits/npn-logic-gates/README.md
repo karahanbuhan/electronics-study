@@ -1,4 +1,4 @@
-# Building Basic Logic Gates with Transistors 🧠
+# Building Basic Logic Gates with Transistors
 
 This project showcases the implementation of fundamental digital logic gates (**AND**, **OR**, **XOR**, and **BUFFER**) using basic electronic components like transistors on a breadboard. Each circuit demonstrates the core principles of digital electronics.
 
@@ -18,13 +18,13 @@ An **AND** gate is a basic digital logic gate that implements logical conjunctio
 |    1    |    1    |   1    |
 
 #### Schematic
-![AND Gate Schematic](./and-schematic.png)
+![AND Gate Schematic](./and-schematic.jpeg)
 
 #### Breadboard Setup
 ![Photo of the AND gate circuit](./and.png)
 
 #### Demonstration
-➡️ [Watch the AND Gate in action](./and.mp4)
+[Watch the AND Gate in action](./and.mp4)
 
 ---
 
@@ -48,7 +48,7 @@ An **OR** gate is a digital logic gate that implements logical disjunction. The 
 ![Photo of the OR gate circuit](./or.png)
 
 #### Demonstration
-➡️ [Watch the OR Gate in action](./or.mp4)
+[Watch the OR Gate in action](./or.mp4)
 
 ---
 
@@ -72,7 +72,7 @@ The **Exclusive-OR (XOR)** gate is a digital logic gate that gives a HIGH (1) ou
 ![Photo of the XOR gate circuit](./xor.png)
 
 #### Demonstration
-➡️ [Watch the XOR Gate in action](./xor.mp4)
+[Watch the XOR Gate in action](./xor.mp4)
 
 ---
 
