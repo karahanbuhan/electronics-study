@@ -17,6 +17,9 @@ Here are some of the fundamental topics I'm exploring:
 * **Basic I/O:**
     * Controlling an LED with a switch.
     * Using appropriate resistor.
+* **Logic Gates:**
+    * BUFFER, OR, AND and XOR gates made with NPN Transistors.
+    * With schematics!
 * *(...and more as I learn!)*
 
 This collection is primarily for my own reference as I build my understanding from the ground up.
