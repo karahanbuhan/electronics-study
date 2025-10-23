@@ -62,7 +62,7 @@ An **OR** gate is a digital logic gate that implements logical disjunction. The 
 
 *Note: Click the image to watch the video.*
 
-[![NOT Gate Demo](not.jpg)](not.mp4)
+[![NOT Gate Demo](not.png)](not.mp4)
 
 ---
 
