@@ -52,6 +52,20 @@ An **OR** gate is a digital logic gate that implements logical disjunction. The 
 
 ---
 
+### NOT Gate (Inverter)
+
+**Schematic Symbol:**
+
+![NOT Gate Schematic](not-schematic.png)
+
+**Demo / Principle of Operation:**
+
+*Note: Click the image to watch the video.*
+
+[![NOT Gate Demo](not.jpg)](not.mp4)
+
+---
+
 ## XOR (Exclusive-OR) Gate
 
 The **Exclusive-OR (XOR)** gate is a digital logic gate that gives a HIGH (1) output only if its two inputs are **different**.
