@@ -18,7 +18,7 @@ Here are some of the fundamental topics I'm exploring:
     * Controlling an LED with a switch.
     * Using appropriate resistor.
 * **Logic Gates:**
-    * BUFFER, OR, AND and XOR gates made with NPN Transistors.
+    * BUFFER, OR, AND, NOT and XOR gates made with NPN Transistors.
     * With schematics!
 * *(...and more as I learn!)*
 
