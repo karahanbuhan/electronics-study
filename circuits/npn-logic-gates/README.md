@@ -1,6 +1,6 @@
 # Building Basic Logic Gates with Transistors
 
-This project showcases the implementation of fundamental digital logic gates (**AND**, **OR**, **XOR**, and **BUFFER**) using basic electronic components like transistors on a breadboard. Each circuit demonstrates the core principles of digital electronics.
+This project showcases the implementation of fundamental digital logic gates (**AND**, **OR**, **NOT**, **XOR**, and **BUFFER**) using basic electronic components like transistors on a breadboard. Each circuit demonstrates the core principles of digital electronics.
 
 ---
 
