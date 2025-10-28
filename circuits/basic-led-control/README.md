@@ -1,4 +1,4 @@
-# Basic LED Control with a Push Button 💡
+# Basic LED Control with a Push Button
 
 This is a fundamental electronics circuit that demonstrates how to turn a Light Emitting Diode (LED) on and off using a momentary push button. When the button is pressed, the circuit is completed, and the LED lights up. When released, the circuit breaks, and the LED turns off.
 
